@@ -1,0 +1,28 @@
+Os dois programas de mineração mais populares são o CGminer e o BFGminer.
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+https://www.youtube.com/watch?v=NADHCQK0VsA
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Com esta potência, você vai ficar garimpando sozinho por mais de 2 meses sem ver NENHUM bitcoin na sua carteira. Não vale a pena. É bem possível que fique 4 meses sem ganhar nem um bitcent, caso a sorte não esteja ao seu lado.
+
+ Mas caso queira encarar esta roubada, basta configurar o arquivo bitcoin.conf com as seguintes informações:
+
+Code:
+server=1
+daemon=1
+testnet=0
+gen=0
+rpcuser=usuario
+rpcpassword=senha123
+
+ E então, basta apontar o seu garimpeiro para o endereço http://127.0.0.1:8332/ com o usuário e a senha informados alí e pronto, solo mining.
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+http://dann.com.br/bitcoin-guia-definitivo-parte-23-tecnicas-de-mineracao-de-criptomoedas/
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+

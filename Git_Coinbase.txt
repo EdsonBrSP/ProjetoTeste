@@ -1,0 +1,7 @@
+https://blog.dmatoso.com/usando-git-e-github-no-windows-a059c791c0af
+
+Configuração Git
+git config --global user.name "EdsonBrSP"
+git config --global user.email edsoncomota@gmail.com
+
+git clone git//github.com:coinbase/coinbase-java.git
